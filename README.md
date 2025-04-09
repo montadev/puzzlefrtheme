@@ -1,3 +1,2 @@
 cd app/themes
-
-composer create-project puzzle/be puzzlebe
+git clone de projet
