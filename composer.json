@@ -1,0 +1,18 @@
+{
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "type": "project",
+    "name": "puzzletheme/be",
+    "authors": [
+        {
+            "name": "Hermi Montassar",
+            "email": "Hermi@Hermi.com"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "Puzzle be"
+        }
+    }
+}
