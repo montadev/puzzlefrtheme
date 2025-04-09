@@ -1,2 +1,6 @@
 cd app/themes
-git clone de projet
+composer create-project puzzletheme/be puzzlebe --stability=dev
+
+
+
+
